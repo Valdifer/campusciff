@@ -2,32 +2,32 @@
 ## Practica 1
 Aquí viene indicada la práctica 1:
 
-2.1 Creacion de nuevo repositorio desde la página
+2.1 Creacion de nuevo repositorio desde la página<br />
 ![Imagen1](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/1.png)
-2.2 Clonamos el repositorio en local
+2.2 Clonamos el repositorio en local<br />
 ![Imagen2](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/2.png)
-2.3 Como el Readme.md lo creé nada más crear el repositorio, este paso no tengo que hacerlo.
-2.4 He añadido los comando usados y ahora haré un git commit , también añado el archivo al repositorio
+2.3 Como el Readme.md lo creé nada más crear el repositorio, este paso no tengo que hacerlo.<br />
+2.4 He añadido los comando usados y ahora haré un git commit , también añado el archivo al repositorio<br />
 ![Imagen3](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/3.png)
-2.5 Hacemos el Push y subimos los cambios a nuestro repositorio
+2.5 Hacemos el Push y subimos los cambios a nuestro repositorio<br />
 ![Imagen4](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/4.png)
-2.6 Creamos las carpeta privada y el archivo privado.txt
+2.6 Creamos las carpeta privada y el archivo privado.txt<br />
 ![Imagen5](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/5.png)
-2.7 Creamos el archivo .gitignore y añadimos al fichero los archivos que queremos que se olvide y hacemos otro commit con push.
+2.7 Creamos el archivo .gitignore y añadimos al fichero los archivos que queremos que se olvide y hacemos otro commit con push.<br />
 ![Imagen6](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/6.png)
 ![Imagen7](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/7.png)
-2.8 Generamos el archivo de texto con touch 1.txt
+2.8 Generamos el archivo de texto con touch 1.txt<br />
 ![Imagen8](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/8.png)
-2.9 Creamos el tag v0.1
+2.9 Creamos el tag v0.1<br />
 ![Imagen9](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/9.png)
-2.10 Subimos los cambios del tag, podríamos haber hecho git checkout v0.1 y luego un push pero hago un git push origin v0.1 para subir el tag
+2.10 Subimos los cambios del tag, podríamos haber hecho git checkout v0.1 y luego un push pero hago un git push origin v0.1 para subir el tag<br />
 ![Imagen10](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/10.png)
-2.11 No voy a poner foto ni doble factor. Genero mi clave pública y la añado a github
+2.11 No voy a poner foto ni doble factor. Genero mi clave pública y la añado a github<br />
 ![Imagen11](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/11.png)
-2.12 Este no hace falta, es irrelevante, para seguir entramos en su usuario y pulsamos Follow, y para buscar pulsamos en Explore y ponemos el nombre de nuestros compañeros, una vez que le damos a buscar seleccionamos Users en la tabla de la izquierda.
-2.13 Creo las tablas y añado los enlaces a los repositorios de Rafa y Antonio
+2.12 Este no hace falta, es irrelevante, para seguir entramos en su usuario y pulsamos Follow, y para buscar pulsamos en Explore y ponemos el nombre de nuestros compañeros, una vez que le damos a buscar seleccionamos Users en la tabla de la izquierda.<br />
+2.13 Creo las tablas y añado los enlaces a los repositorios de Rafa y Antonio<br />
 ![Imagen12](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/12.png)
-2.14 No voy a poner de colaborador a nadie, por ahora no hay ninguno, los añadiré cuando sea pertinente.
+2.14 No voy a poner de colaborador a nadie, por ahora no hay ninguno, los añadiré cuando sea pertinente.<br />
 
 ## Practica 2
 Aquí viene indicada la práctica 2:
