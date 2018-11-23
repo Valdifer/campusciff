@@ -32,7 +32,6 @@ Aquí viene indicada la práctica 1:
 ## Practica 2
 Aquí viene indicada la práctica 2:
 
-Ejercicio 2 Avanzado
 2.2 Creo la rama v0.2 y me muevo a ella.
 ![Imagen1](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea2/1.png)
 Añado mi carpeta de trabajo con el archivo 2.txt al branch
