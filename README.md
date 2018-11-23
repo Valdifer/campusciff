@@ -1,5 +1,5 @@
 # campusciff
-##Practica 1
+## Practica 1
 Aquí viene indicada la práctica 1:
 
 2.1 Creacion de nuevo repositorio desde la página
@@ -29,7 +29,7 @@ Aquí viene indicada la práctica 1:
 ![Imagen12](https://raw.githubusercontent.com/Valdifer/campusciff/master/Tarea1/12.png)
 2.14 No voy a poner de colaborador a nadie, por ahora no hay ninguno, los añadiré cuando sea pertinente.
 
-##Practica 2
+## Practica 2
 Aquí viene indicada la práctica 2:
 
 Ejercicio 2 Avanzado
